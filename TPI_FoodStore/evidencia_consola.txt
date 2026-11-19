@@ -1,0 +1,75 @@
+
+=== FOOD STORE - INICIO DE SESIÓN ===
+Mail: Contraseña: 
+Bienvenido/a, Ana Pérez [ADMIN]
+
+=== FOOD STORE - ADMINISTRADOR (Ana) ===
+1. Categorías
+2. Productos
+3. Usuarios
+4. Pedidos
+9. Cerrar sesión
+0. Salir
+Seleccione: 
+--- PEDIDOS ---
+1. Listar
+2. Crear con detalles
+3. Cambiar estado o pago
+4. Eliminar
+0. Volver
+Seleccione: 5 - Juan Gómez | cliente@foodstore.com | USUARIO
+Id del cliente: 1. TARJETA
+2. TRANSFERENCIA
+3. EFECTIVO
+Forma de pago: 2 - Hamburguesa clásica | $4500.00 | stock: 10 | Platos | disponible
+3 - Ensalada fresca | $3200.00 | stock: 6 | Platos | disponible
+2 - Hamburguesa clásica | $4500.00 | stock: 10 | Platos | disponible
+3 - Ensalada fresca | $3200.00 | stock: 6 | Platos | disponible
+Id de producto: Cantidad: ¿Agregar otro producto? (S/N): Pedido 6 creado. Total: $4500.00.
+
+--- PEDIDOS ---
+1. Listar
+2. Crear con detalles
+3. Cambiar estado o pago
+4. Eliminar
+0. Volver
+Seleccione: 6 - Juan Gómez | PENDIENTE | EFECTIVO | $4500.00 | 2026-10-31
+
+--- PEDIDOS ---
+1. Listar
+2. Crear con detalles
+3. Cambiar estado o pago
+4. Eliminar
+0. Volver
+Seleccione: 
+=== FOOD STORE - ADMINISTRADOR (Ana) ===
+1. Categorías
+2. Productos
+3. Usuarios
+4. Pedidos
+9. Cerrar sesión
+0. Salir
+Seleccione: 
+=== FOOD STORE - INICIO DE SESIÓN ===
+Mail: Contraseña: 
+Bienvenido/a, Juan Gómez [USUARIO]
+
+=== FOOD STORE - CLIENTE (Juan) ===
+1. Ver categorías
+2. Ver productos disponibles
+3. Mis pedidos
+4. Mis datos
+9. Cerrar sesión
+0. Salir
+Seleccione: 6 - Juan Gómez | PENDIENTE | EFECTIVO | $4500.00 | 2026-10-31
+¿Consultar el detalle de un pedido? (S/N): Id del pedido: Hamburguesa clásica x 1 = $4500.00
+Total: $4500.00
+
+=== FOOD STORE - CLIENTE (Juan) ===
+1. Ver categorías
+2. Ver productos disponibles
+3. Mis pedidos
+4. Mis datos
+9. Cerrar sesión
+0. Salir
+Seleccione: Programa finalizado.
